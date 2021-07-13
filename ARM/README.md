@@ -4,6 +4,9 @@
 
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Fapplication-workloads%2Fsccm%2Fsccm-currentbranch%2Fazuredeploy.json)
 
+
+https://github.com/richardslaiii/AzureLab/blob/aec25fa2848edc4cc9c8383ee017ba3d7252c78f/ARM/resourcegroup.template.json
+
 ## Description
 
 This template tries to create a Resource Group
