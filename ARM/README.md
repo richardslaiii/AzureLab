@@ -10,3 +10,6 @@ https://github.com/richardslaiii/AzureLab/blob/aec25fa2848edc4cc9c8383ee017ba3d7
 ## Description
 
 This template tries to create a Resource Group
+
+
+[![Visualize](https://github.com/richardslaiii/AzureLab/blob/1e1fab6f63a414de1a1d50726841bd11934fe5aa/images/deploytoazure.svg)]
