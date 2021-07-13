@@ -6,7 +6,7 @@
 
 
 https://github.com/richardslaiii/AzureLab/blob/aec25fa2848edc4cc9c8383ee017ba3d7252c78f/ARM/resourcegroup.template.json
-
+https://github.com/richardslaiii/AzureLab/blob/c3fec2a1d2ccdb7c94a2ea54357292fe316255c4/ARM/resourcegroup.template.json
 ## Description
 
 This template tries to create a Resource Group
