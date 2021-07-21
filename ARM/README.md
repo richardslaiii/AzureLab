@@ -13,8 +13,6 @@ https://raw.githubusercontent.com/richardslaiii/AzureLab/blob/c3fec2a1d2ccdb7c94
 This template tries to create a Resource Group
 
 
-[![Visualize](https://github.com/richardslaiii/AzureLab/blob/1e1fab6f63a414de1a1d50726841bd11934fe5aa/images/deploytoazure.svg?sanitize=true)]
+[![Deploy To Azure](https://github.com/richardslaiii/AzureLab/blob/1e1fab6f63a414de1a1d50726841bd11934fe5aa/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frichardslaiii%2FAzureLab%2Fmain%2FARM%2Fresource.parameters.json)
 
-https%3A%2F%2Fraw.githubusercontent.com%2Frichardslaiii%2FAzureLab%2Fmain%2FARM%2Fresource.parameters.json
 
-https%3A%2F%2Fraw.githubusercontent.com%2Frichardslaiii%2FAzureLab%2Fmain%2FARM%2F
