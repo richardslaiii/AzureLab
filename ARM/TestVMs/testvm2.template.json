@@ -9,17 +9,20 @@
                 "true",
                 "false"
             ],
+          "metadata": {
+                "description": "Select whether the VM should include the security settings, Default is true"
+            }
             
         },
         "InstallOMSAgent": {
             "type": "string",
-            "defaultValue": "true",
+            "defaultValue": "false",
             "allowedValues": [
                 "true",
                 "false"
             ],
             "metadata": {
-                "description": "Select whether the VM should include the OMS Agent, Default is true"
+                "description": "blah blah blah"
             }
         },
         "CreatePublicIP": {
