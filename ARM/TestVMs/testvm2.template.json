@@ -4,7 +4,7 @@
     "parameters": {
         "ApplySecuritySettings": {
             "type": "string",
-            "defaultValue": "true",
+            "defaultValue": "false",
             "allowedValues": [
                 "true",
                 "false"
