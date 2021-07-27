@@ -9,9 +9,7 @@
                 "true",
                 "false"
             ],
-            "metadata": {
-                "description": "Select whether the VM should include the security settings, Default is true"
-            }
+            
         },
         "InstallOMSAgent": {
             "type": "string",
